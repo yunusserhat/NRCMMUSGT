@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bıçakçı"
+  given-names: "Yunus Serhat"
+  orcid: "https://orcid.org/0000-0002-7288-9959"
+- family-names: "Alina"
+  given-names: "Ristea"
+  orcid: "https://orcid.org/0000-0003-2682-1416"
+- family-names: "Bowers"
+  given-names: "Kate"
+  orcid: "https://orcid.org/0000-0002-0965-492X"
+title: "Big Data Usage Opportunities for Interactive Crime Mapping"
+version: 0.2.0
+doi: 10.5281/zenodo.8276647
+date-released: 2023-08-23
+url: "https://doi.org/10.5281/zenodo.8276647"
